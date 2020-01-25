@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Naman Goyal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Delhi, India"
+  bio              : "A polymath, Computer Science, IIT RPR unravelling real-world challenges with innovation."
+  location         : 
   email            : namangoyal1001@gmail.com
   links:
     - label: "Email"
