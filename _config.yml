@@ -111,11 +111,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A polymath, Computer Science, IIT RPR unravelling real-world challenges with innovation."
   location         : 
-  email            : 
+  email            : "namangoyal1001@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: namangoyal1001@gmail.com
+      url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://namangoyal.com"
