@@ -1,7 +1,7 @@
 ---
 title: "Codility Lesson1: Binary Gap"
 categories:
-  - Coding challenge
+  - Coding
 tags:
   - Coding
 header:
