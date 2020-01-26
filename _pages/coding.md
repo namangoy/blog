@@ -10,6 +10,9 @@ sidebar:
   nav: "coding"
 author: Naman Goyal
 ---
+Placeholder
+
+{% include toc title="Table of Contents" %}
 
 <ul>
   {% for post in site.posts %}
