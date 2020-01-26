@@ -16,15 +16,15 @@ main:
     url: https://namangoyal.com
     
 updates:
-  - title: Updates
+  - title: "Updates"
     url: "/updates/"
     children:
       - title: "Placeholder"
         url: "/updates/Placeholder/"
 
 coding:
-  - title: Coding
+  - title: "Coding"
     url: "/coding/"
     children:
-      - title: "Home"
+      - title: "Placeholder"
         url: "/coding/Placeholder/"
