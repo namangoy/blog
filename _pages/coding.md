@@ -2,6 +2,13 @@
 permalink: "/coding/"
 layout: page
 title:  "Coding"
+header:
+  teaser: 
+  overlay_image: 
+  overlay_filter: 
+sidebar:
+  nav: "coding"
+author: Naman Goyal
 ---
 
 <ul>
