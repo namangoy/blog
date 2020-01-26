@@ -12,7 +12,7 @@ author: Naman Goyal
 author_profile: true
 ---
 Recent posts
-<hr>
+
 {% for post in site.categories.Coding limit:10 %}
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
     {{ post.content }}
