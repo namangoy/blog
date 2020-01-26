@@ -9,7 +9,7 @@ header:
   overlay_image: 
   overlay_filter: 
 sidebar:
-  nav: 
+  nav: "coding"
 author: Naman Goyal
 ---
 
