@@ -13,7 +13,7 @@ author: Naman Goyal
 Placeholder
 
 <ul>
-  {% for post in site.categories.coding %}
+  {% for post in site.categories.Coding %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
