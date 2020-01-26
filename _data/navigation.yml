@@ -9,6 +9,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Coding"
-    url: "/coding"
+    url: "/coding/coding-L1_BinaryGap/"
   - title: "Homepage"
     url: https://namangoyal.com
