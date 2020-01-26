@@ -1,3 +1,9 @@
+---
+permalink: "/coding/"
+layout: page
+title:  "Coding"
+---
+
 <ul>
   {% for post in site.posts %}
     <li>
