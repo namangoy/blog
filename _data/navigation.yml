@@ -12,9 +12,16 @@ main:
     url: "/coding/coding-L1_BinaryGap/"
   - title: "Homepage"
     url: https://namangoyal.com
+    
+updates:
+  - title: Updates
+    url: "/updates/Home/"
+#     children:
+#       - title: "Home"
+#         url: "/updates/coding-Home/"
 
 coding:
-  - title: Codility
+  - title: Coding
     url: "/coding/Home/"
 #     children:
 #       - title: "Home"
