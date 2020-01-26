@@ -10,7 +10,7 @@ header:
   overlay_filter: 
 sidebar:
   nav: 
-author_profile: Naman Goyal
+author: Naman Goyal
 ---
 
 Sharing an answer code of mine about [BinaryGap problem of Codility lesson 1](https://codility.com/programmers/lessons/1-iterations/binary_gap/start/).
