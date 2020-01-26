@@ -11,12 +11,9 @@ sidebar:
 author: Naman Goyal
 author_profile: true
 ---
-Placeholder
-
-<ul>
-  {% for post in site.categories.Updates %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+Recent posts
+<hr>
+{% for post in site.categories.Updates limit:10 %}
+    <h1> <a href="{{ post.url }}">{{ post.title }}</a></h1>
+    {{ post.content }}
+{% endfor %}
