@@ -17,4 +17,4 @@ coding:
   - title: Codility
     children:
       - title: "Lesson1. BinaryGap"
-        url: /coding challenge/coding-L1_BinaryGap/
+        url: "/coding/coding-L1_BinaryGap/"
