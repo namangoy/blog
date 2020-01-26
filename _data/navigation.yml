@@ -15,6 +15,7 @@ main:
 
 coding:
   - title: Codility
-    children:
-      - title: "Lesson1. BinaryGap"
-        url: "/coding/coding-L1_BinaryGap/"
+    url: "/coding/coding-Home/"
+#     children:
+#       - title: "Home"
+#         url: "/coding/coding-Home/"
