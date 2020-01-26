@@ -12,3 +12,9 @@ main:
     url: "/coding/coding-L1_BinaryGap/"
   - title: "Homepage"
     url: https://namangoyal.com
+
+coding:
+  - title: Codility
+    children:
+      - title: "Lesson1. BinaryGap"
+        url: /coding challenge/coding-L1_BinaryGap/
