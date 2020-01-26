@@ -8,5 +8,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Coding"
+    url: "/coding"
   - title: "Homepage"
     url: https://namangoyal.com
