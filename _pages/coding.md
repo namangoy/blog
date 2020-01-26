@@ -14,7 +14,7 @@ author_profile: true
 Placeholder
 
 <ul>
-  {% for post in site.posts.coding %}
+  {% for post in site.categories.Coding %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
