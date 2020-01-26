@@ -13,7 +13,7 @@ author: Naman Goyal
 Placeholder
 
 <ul>
-  {% for post in site.categories.updates %}
+  {% for post in site.categories.Updates %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
