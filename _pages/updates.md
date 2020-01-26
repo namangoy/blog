@@ -13,7 +13,9 @@ author_profile: true
 ---
 Recent posts
 <hr>
+<ul>
 {% for post in site.categories.Updates limit:10 %}
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    {{ post.content }}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+<ul>
+
