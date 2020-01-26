@@ -1,0 +1,14 @@
+Naman Goyal:
+  name        : "Naman Goyal"
+  bio         : 
+  avatar      : "/assets/images/Naman Goyal.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:namangoyal1001@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://namangoyal.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/extravagantman"
