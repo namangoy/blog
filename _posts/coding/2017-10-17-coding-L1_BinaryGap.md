@@ -5,11 +5,11 @@ categories:
 tags:
   - Coding
 header:
-#  teaser: /assets/images/codility.png
-#  overlay_image: /assets/images/codility.png
-#  overlay_filter: 0.4
+  teaser: 
+  overlay_image: 
+  overlay_filter: 
 sidebar:
-  nav: "Coding"
+  nav: 
 author_profile: Naman Goyal
 ---
 
