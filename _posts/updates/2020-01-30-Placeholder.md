@@ -11,6 +11,7 @@ header:
 sidebar:
   nav: "updates"
 author: Naman Goyal
+author_profile: true
 ---
 
 Placeholder
