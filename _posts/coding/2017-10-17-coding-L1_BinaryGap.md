@@ -15,7 +15,7 @@ author: Naman Goyal
 
 Sharing an answer code of mine about [BinaryGap problem of Codility lesson 1](https://codility.com/programmers/lessons/1-iterations/binary_gap/start/).
 
-{% include toc title="Table of Contents" icon="file-text" %}
+{% include toc title="Table of Contents" %}
 
 ## Lesson 1: BinaryGap
 A binary gap within a positive integer N is any maximal sequence of consecutive zeros that is surrounded by ones at both ends in the binary representation of N.
