@@ -9,22 +9,22 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: Updates
-    url: "/updates/Home/"
+    url: "/updates/"
   - title: "Coding"
-    url: "/coding/Home/"
+    url: "/coding/"
   - title: "Homepage"
     url: https://namangoyal.com
     
 updates:
   - title: Updates
-    url: "/updates/Home/"
-#     children:
-#       - title: "Home"
-#         url: "/updates/coding-Home/"
+    url: "/updates/"
+    children:
+      - title: "Placeholder"
+        url: "/updates/Placeholder/"
 
 coding:
   - title: Coding
-    url: "/coding/Home/"
-#     children:
-#       - title: "Home"
-#         url: "/coding/coding-Home/"
+    url: "/coding/"
+    children:
+      - title: "Home"
+        url: "/coding/Placeholder/"
