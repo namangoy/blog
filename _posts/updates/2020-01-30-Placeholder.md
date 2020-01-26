@@ -1,5 +1,5 @@
 ---
-title: "Updates - Home"
+title: "Updates - Placeholder"
 categories:
   - Updates
 tags:
