@@ -14,9 +14,11 @@ author_profile: true
 Placeholder
 
 <ul>
-  {% for post in site.categories.Coding %}
+  {% for post in site.categories.Coding limit:10 %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <h1> <a href="{{ post.url }}">{{ post.title }}</a></h1>
+      {{ post.content }}
     </li>
   {% endfor %}
+  
 </ul>
