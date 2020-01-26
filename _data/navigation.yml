@@ -8,8 +8,10 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: Updates
+    url: "/updates/Home/"
   - title: "Coding"
-    url: "/coding/coding-L1_BinaryGap/"
+    url: "/coding/Home/"
   - title: "Homepage"
     url: https://namangoyal.com
     
