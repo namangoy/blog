@@ -12,10 +12,8 @@ author: Naman Goyal
 ---
 Placeholder
 
-{% include toc title="Table of Contents" %}
-
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.categories.coding %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
