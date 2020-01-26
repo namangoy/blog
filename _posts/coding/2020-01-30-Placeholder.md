@@ -1,5 +1,5 @@
 ---
-title: "Coding - Home"
+title: "Coding - Placeholder"
 categories:
   - Coding
 tags:
