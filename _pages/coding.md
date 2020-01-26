@@ -1,5 +1,6 @@
 ---
 permalink: "/coding/"
+layout: single
 title:  "Coding"
 header:
   teaser: 
